@@ -14,16 +14,15 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 * 10 --[Machine Learning](10_ml)
 * 11 -- [Other Topics + [Final Project Proposals](final)
 * 12 -- [Beyond p5.js + [Final Project Proposals](final)
-* 13 -- [One on one speed user testing / feedback](user_testing)
+* 13 -- [One on one speed user testing / feedback](user testing)
 * 14 -- [Final Project Presentations](final)
 
 ## Section Info
-* [Allison](sections/03_Allison.md)
-* [Cassie](sections/05_Cassie.md)
-* [Dano](sections/06_Dano.md)
-* [Luisa](sections/01_Luisa.md)
-* [Mimi](sections/04_Mimi.md)
-* [Shawn](sections/02_Shawn.md)
+* [Allison Thursday]()
+* [Cassie Wednesday]()
+* [Dano Wednesday]()
+* [Mimi Tuesday]()
+* [Dano Wednesday]()
 
 ## Questions and Discussion
 - [Sign up for the ICM google group](https://groups.google.com/a/itp.nyu.edu/group/icm/)

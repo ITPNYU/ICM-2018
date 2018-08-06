@@ -12,8 +12,8 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 * 8 -- [Working with Data](weeks/08_data/)
 * 9 -- [Video and Sound](weeks/09_media)
 * 10 --[Machine Learning](weeks/10_ml)
-* 11 -- [Other Topics + [Final Project Proposals](weeks/final)
-* 12 -- [Beyond p5.js + [Final Project Proposals](weeks/final)
+* 11 -- [Other Topics](weeks/11_other) + [Final Project Proposals](weeks/final)
+* 12 -- [Beyond p5.js](weeks/12_beyond) + [Final Project Proposals](weeks/final)
 * 13 -- [One on one speed user testing / feedback](weeks/user_testing)
 * 14 -- [Final Project Presentations](weeks/final)
 

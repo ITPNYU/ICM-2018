@@ -1,4 +1,4 @@
-### 1 -- Introduction and Drawing
+# Introduction
 * What is computational media?
   * What is programming?
   * How can I apply programming to _____________?
@@ -21,6 +21,8 @@
   * When should you post to a forum vs. file a github issue?
   * Who makes these things?
   * [p5.js working group mailing list](http://groups.google.com/forum/#!forum/p5xjs-working-group)
+  
+# Drawing
 * Getting started, your first program
   * Drawing with numbers: [video tutorial](https://www.youtube.com/watch?v=D1ELEeIs0j8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=2)
   * Shape and color functions: [video tutorial](https://www.youtube.com/watch?v=9mucjcrhFcM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=3)
@@ -36,7 +38,6 @@
   * [For more about color](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html)
   * [For more about shapes (specifically "custom shapes" with vertices and bezier curves)](https://programmingdesignsystems.com/shape/custom-shapes/index.html#custom-shapes-pANLh0l)
   * [p5 playground (by Yining)](http://yining1023.github.io/p5PlayGround/)
-
 
 # Assignment
 

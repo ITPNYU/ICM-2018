@@ -1,0 +1,19 @@
+### 2 -- Animation
+- Program flow (what's a function?)
+  - Setup, draw, and other events
+  - Variation: mouseX and mouseY
+  - [video tutorial](https://www.youtube.com/watch?v=RnS0YNuLfQQ&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=5)
+- More about variables
+  - make your own variables (numbers and strings), [video tutorial](https://www.youtube.com/watch?v=Bn_B3T_Vbxs&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=6)
+  - JS objects (variables inside variables), [video tutorial](https://www.youtube.com/watch?v=-e5h4IGKZRY&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=7)
+- [random()](http://p5js.org/reference/#/p5/random), [video tutorial](https://www.youtube.com/watch?v=nfmV2kuQKwA&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=9)
+- [map()](http://p5js.org/reference/#/p5/map), [video tutorial](https://www.youtube.com/watch?v=nicMAoW6u1g&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=8)
+- Transformations
+   - `translate()`, `rotate()`, `scale()`, `push()`, `pop()`
+   - [translate, rotate, push, pop video tutoral](https://youtu.be/o9sgjuh-CBM)
+   - [scale video tutorial](https://youtu.be/pkHZTWOoTLM)
+   - [more on technical details](https://youtu.be/IVMvq9rd8dA)
+- Examples
+  - [random painting](https://alpha.editor.p5js.org/projects/HJg8jfcT3)
+  - [mouse controlled painting](https://alpha.editor.p5js.org/projects/r1JeQqa3)
+  - [moving circle](https://alpha.editor.p5js.org/projects/Bymv7ca2)

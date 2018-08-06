@@ -1,0 +1,23 @@
+### 5 -- Objects and Arrays
+* Object-Oriented Programming with Classes in JavaScript
+    - [Mozilla Classes reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+    - [OOP with p5.js tutorial](https://shiffman.github.io/Learning-p5.js/ch08.html)
+    - Video: [6.1 Intro to ES6 OOP](https://www.youtube.com/watch?v=xG2Vbnv0wvg)
+    - Video: [6.2 Writing a Class](https://www.youtube.com/watch?v=T-HGdc8L-7w)
+    - Video: [6.3 Constructor Arguments](https://www.youtube.com/watch?v=rHiSsgFRgx4)
+    - [Two Gravity Ball Objects Example](http://alpha.editor.p5js.org/icm/sketches/BkyUQp1nb)
+* [Learning Processing Chapter 8 on Objects translated to p5](https://shiffman.github.io/Learning-p5.js/ch08.html)
+* Arrays
+    - [7.1 What is an array?](https://www.youtube.com/watch?v=VIQoUghHSxU)
+    - [7.2 Arrays and loops](https://www.youtube.com/watch?v=RXWO3mFuW-I)
+    - [7.3 Arrays of objects](https://www.youtube.com/watch?v=fBqaA7zRO58)
+    - [7.4 Mouse interaction with objects](https://www.youtube.com/watch?v=TaN5At5RWH8)
+    - [7.5 Removing objects from arrays](https://www.youtube.com/watch?v=tA_ZgruFF9k)
+    * [A Snake Following the Mouse](http://alpha.editor.p5js.org/projects/Sy1ECGcA)
+    * [Interactive Stripes](http://alpha.editor.p5js.org/icm/sketches/B1ja76khW)
+    * [An Array of Buttons](http://alpha.editor.p5js.org/icm/sketches/BkaTNak3Z)
+    * Checking objects intersecting with other objects Old video, no classes! [video tutorial](https://www.youtube.com/watch?v=uAfw-ko3kB8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=28), Old video, no classes!  [video tutorial](https://www.youtube.com/watch?v=GY-c2HO2liA&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=29)
+    * [Checking Objects Intersection]http://alpha.editor.p5js.org/icm/sketches/S1BbBT13b)
+    * loading images for objects Old video, no classes! [video tutorial 6.11](https://www.youtube.com/watch?v=FVYGyaxG4To&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=30)
+    * [MousePressed Adding New Images](http://alpha.editor.p5js.org/icm/sketches/SJzKEak3W)
+* [Optional quiz to test your knowledge](https://itpnyu.github.io/ICM-Quizzes/week5-objects-arrays/)

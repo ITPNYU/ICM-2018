@@ -1,0 +1,27 @@
+### 3 -- Interaction
+- Conditional Statements
+    - Boolean expressions
+    - if statement
+    - relational operators
+    - [video tutorial](https://www.youtube.com/watch?v=1Osb_iGDdjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=10)
+    - Case study, bouncing ball: [video tutorial](https://www.youtube.com/watch?v=LO3Awjn_gyU&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=11)
+    - else, else if, AND, OR [video tutorial](https://www.youtube.com/watch?v=r2S7j54I68c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=12)
+    - boolean variables [video tutorial](https://www.youtube.com/watch?v=Rk-_syQluvc&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=13)
+    - buttons, rollovers, switches
+- Loops (while and for)
+    - while and for [video tutorial](https://www.youtube.com/watch?v=cnRD9o6odjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=14)
+    - nested loops [video tutorial](https://www.youtube.com/watch?v=1c1_TMdf8b8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=15)
+- Examples
+    - Motion
+      - [bouncing ball](https://alpha.editor.p5js.org/projects/BJKWv5Tn)
+      - [10PRINT](https://alpha.editor.p5js.org/projects/rkHKL962)
+    - GUI
+      - [circle rollover](https://alpha.editor.p5js.org/projects/H1kCSqah)
+      - [square rollover](https://alpha.editor.p5js.org/projects/rkLfL56h)
+      - [button hold down](https://alpha.editor.p5js.org/projects/S16-H9pn)
+      - [button switch](https://alpha.editor.p5js.org/projects/Sywrrqa2)
+      - [quadrant rollover](https://alpha.editor.p5js.org/projects/Hki1I5ah)
+      - [rollover with fade](https://alpha.editor.p5js.org/projects/SkPsHcph)
+      - [draggable](https://alpha.editor.p5js.org/projects/B13wH5T3)
+      - [knob](https://alpha.editor.p5js.org/projects/HkfFHcp2)
+      - [slider](https://alpha.editor.p5js.org/projects/H1LXU9ah)

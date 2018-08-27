@@ -13,7 +13,7 @@
    7. Tuesday, October 16
    8. Tuesday, October 23
    9. Tuesday, October 3
-   10. Friday Nov 2, 11AM-2PM Dumplings!
+   10. *Friday Nov 2, 11AM-2PM Dumplings!*
    11. Tuesday, November 6
    12. Tuesday, November 20
    13. Tuesday, November 27

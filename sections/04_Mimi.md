@@ -1,6 +1,7 @@
 # ICM 2018 Mimi Yin
 - Mimi Yin, mimi.yin@nyu.edu
 - Tuesdays 12:10-2:40PM
+- [Homework Wiki](https://github.com/ITPNYU/ICM-2018/wiki/Homework-Mimi)
 - [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Mimi)
 
 # Class Dates

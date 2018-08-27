@@ -2,25 +2,25 @@
 Syllabus for ITP Foundation Course Introduction to Computational Media
 
 ## Syllabus Overview
-* 1 -- [Introduction and Drawing](weeks/01_intro/)
-* 2 -- [Animation: Variables](weeks/02_animation/)
-* 3 -- [Interaction: conditionals and loops](weeks/03_interaction/)
-* 4 -- [Functions and Objects](weeks/04_functions/)
+* 1 -- [Introduction and Drawing](weeks/01_intro.md)
+* 2 -- [Animation: Variables](weeks/02_animation.md)
+* 3 -- [Interaction: conditionals and loops](weeks/03_interaction.md)
+* 4 -- [Functions and Objects](weeks/04_functions.md)
 * 5 -- [Objects and Arrays](weeks/05_objects)
-* 6 -- [Serial Communication, events and callbacks](weeks/06_serial/)
-* 7 -- [DOM: HTML, CSS](weeks/07_dom/)
-* 8 -- [Working with Data](weeks/08_data/)
-* 9 -- [Video and Sound](weeks/09_media)
-* 10 --[Machine Learning](weeks/10_ml)
-* 11 -- [Other Topics](weeks/11_other) + [Final Project Proposals](weeks/final)
-* 12 -- [Beyond p5.js](weeks/12_beyond) + [Final Project Proposals](weeks/final)
-* 13 -- [One on one speed user testing / feedback](weeks/user_testing)
-* 14 -- [Final Project Presentations](weeks/final)
+* 6 -- [DOM: HTML, CSS](weeks/06_dom.md) and [Serial Communication](weeks/06_serial.md)
+* 7 -- [Working with Data](weeks/07_data.md)
+* 8 -- [Video and Sound](weeks/08_media)
+* 9 -- [Machine Learning](weeks/09_ml)
+* 10 -- ICM Madness Workshop -- All sections meet Friday, Nov 2, 11am-2pm! Details TBA.
+* 11 -- Other Topics + Final Project Proposals
+* 12 -- Beyond p5.js + Final Project Proposals
+* 13 -- One on one speed user testing / feedback
+* 14 -- Final Project Presentations
 
 ## Section Info
 * [Allison](sections/03_Allison.md)
 * [Cassie](sections/05_Cassie.md)
-* [Dano](sections/06_Dano.md) [Homework](https://github.com/shiffman/ICM-2018/wiki/Homework-Dano)
+* [Dano](sections/06_Dano.md), [Homework](https://github.com/shiffman/ICM-2018/wiki/Homework-Dano)
 * [Luisa](sections/01_Luisa.md)
 * [Mimi](sections/04_Mimi.md)
 * [Shawn](sections/02_Shawn.md)

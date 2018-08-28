@@ -2,7 +2,7 @@
 
 * Cassie Tarakajian
 * Wednesday, 9:00am to 11:30am
-* Room TBD
+* Conference Room
 * [Homework Wiki](https://github.com/shiffman/ICM-2018/wiki/Homework-Cassie)
 
 ## Dates

@@ -9,8 +9,8 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 * 5 -- [Objects and Arrays](weeks/05_objects)
 * 6 -- [DOM: HTML, CSS](weeks/06_dom.md) and [Serial Communication](weeks/06_serial.md)
 * 7 -- [Working with Data](weeks/07_data.md)
-* 8 -- [Video and Sound](weeks/08_media)
-* 9 -- [Machine Learning](weeks/09_ml)
+* 8 -- [Video and Sound](weeks/08_media.md)
+* 9 -- [Machine Learning](weeks/09_ml.md)
 * 10 -- ICM Madness Workshop -- All sections meet Friday, Nov 2, 11am-2pm! Details TBA.
 * 11 -- Other Topics + Final Project Proposals
 * 12 -- Beyond p5.js + Final Project Proposals

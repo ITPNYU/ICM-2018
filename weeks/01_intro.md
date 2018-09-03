@@ -29,8 +29,8 @@
   * [p5.js Web Editor Tutorial](https://youtu.be/MXs1cOlidWs)
   * [Drawing with numbers video tutorial](https://youtu.be/c3TeLi6Ns1E)
   * [Shape and color functions video tutorial](https://youtu.be/c3TeLi6Ns1E)
-  * [Errors and Console](https://youtu.be/LuGsp5KeJMM)
-  * [Code Comments](https://youtu.be/xJcrPJuem5Q)
+  * [Errors and Console Video Tutorial](https://youtu.be/LuGsp5KeJMM)
+  * [Code Comments Video Tutorial](https://youtu.be/xJcrPJuem5Q)
   * `setup()` and `draw()`
   * [p5.js reference](http://p5js.org/reference)
 ## Additional viewing / reading:

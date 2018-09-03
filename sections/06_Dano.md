@@ -19,11 +19,13 @@
  7. October 17
  8. October 24
  9. October 31
-10. November 7
-11. November 14
-12. November 28
-13. December 5
-14. December 12
+10. Friday, Nov 2 11am-2pm -- Dumplings!
+11. November 7
+12. November 14
+Thanksgiving
+13. November 28
+14. December 5  -- Finish before other classes
+
 
 
 ### Guidelines

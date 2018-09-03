@@ -5,7 +5,6 @@
 * Room TBD
 * dan.osullivan@nyu.edu
 * [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UVBlTFZhOVNCTmF0fGRlZmF1bHR8MmU2NTM4NjJmOTJiNTUwM2M0YTBmMzcyZDM4NjRkNmQ)
-  - Email: dan.osullivan@nyu.edu
 * [Homework Wiki](https://github.com/shiffman/ICM-2018/wiki/Homework-Dano)
 
 ## Dates

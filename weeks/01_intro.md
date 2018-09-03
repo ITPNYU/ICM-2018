@@ -3,12 +3,13 @@
   * What is programming?
   * How can I apply programming to _____________?
   * As a ____________, why would I want or need to write software?
-  * [Example projects](https://github.com/ITPNYU/ICM-2018/wiki/Inspiration).
+  * [Example projects for Inspiration](https://github.com/ITPNYU/ICM-2018/wiki/Inspiration)
 ## Programming language discussion
   * General discussion of programming languages
   * History of creative coding frameworks
       * Processing and p5.js (and what's processing.js?)
       * [Introduction to p5.js video](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1)
+      * [p5.js Web Editor Promo Video](https://youtu.be/dtHxDggkBYc)
       * [History of p5.js video](https://www.youtube.com/watch?v=FdsWWjqoPKU)
       * openframeworks, cinder
       * max/msp dataflow programming
@@ -33,6 +34,7 @@
   * [Pick an Eyeo Talk that looks interesting](https://vimeo.com/eyeofestival/)
   * [All introductory p5.js videos](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
   * [Comparing Processing and p5.js Part 1 video](https://youtu.be/AmlAiKsiy0o), [Comparing Processing and p5.js Part 2 video](https://youtu.be/AsjPJ5AWkDc), [Comparing Processing and p5.js Part 3 video](https://youtu.be/_y8rEHjqzRA)
+  * [Overview of p5.js Web Editor with Cassie](https://youtu.be/x1rJJRVTpAI)
   * [FORM+CODE: Introduction and What is Code?](http://formandcode.com)
   * [As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), Vannevar Bush
   * [Long Live the Web](http://jblomo.github.io/webarch253/slides/Long_Live_the_Web.pdf), Tim Berners-Lee

@@ -25,13 +25,3 @@ Thanksgiving
 13. November 28
 14. December 5  -- Finish before other classes
 
-
-
-### Guidelines
-A big part of learning at ITP is learning from each other. So share your work and in exchange you'll get to see everyone else's!
-
-1. Do the assignment.
-2. Contribute a question.
-3. Post documentation in the form of a blog post.  Ideally something visual, some written thoughts, and code.  If you are struggling with your sketch and can't get things to work, you should feel free to put your energy into writing about what didn't work (and vent any frustrations!).
-
-

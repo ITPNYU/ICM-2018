@@ -8,7 +8,7 @@
   * General discussion of programming languages
   * History of creative coding frameworks
       * Processing and p5.js (and what's processing.js?)
-      * [Introduction to p5.js video](https://www.youtube.com/watch?v=8j0UDiN7my4&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=1)
+      * [Introduction to Code with p5.js Video](https://youtu.be/yPWkPOfnGsw)
       * [p5.js Web Editor Promo Video](https://youtu.be/dtHxDggkBYc)
       * [History of p5.js video](https://www.youtube.com/watch?v=FdsWWjqoPKU)
       * openframeworks, cinder
@@ -26,8 +26,11 @@
   
 # Drawing
 ## Getting started, your first program
-  * [Drawing with numbers video tutorial](https://www.youtube.com/watch?v=D1ELEeIs0j8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=2)
-  * [Shape and color functions video tutorial](https://www.youtube.com/watch?v=9mucjcrhFcM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=3)
+  * [p5.js Web Editor Tutorial](https://youtu.be/MXs1cOlidWs)
+  * [Drawing with numbers video tutorial](https://youtu.be/c3TeLi6Ns1E)
+  * [Shape and color functions video tutorial](https://youtu.be/c3TeLi6Ns1E)
+  * [Errors and Console](https://youtu.be/LuGsp5KeJMM)
+  * [Code Comments](https://youtu.be/xJcrPJuem5Q)
   * `setup()` and `draw()`
   * [p5.js reference](http://p5js.org/reference)
 ## Additional viewing / reading:

@@ -1,6 +1,6 @@
 ## Info
 
-* Cassie Tarakajian
+* Cassie Tarakajian, cassie.tarakajian@nyu.edu
 * Wednesday, 9:00am to 11:30am
 * Conference Room
 * [Homework Wiki](https://github.com/shiffman/ICM-2018/wiki/Homework-Cassie)

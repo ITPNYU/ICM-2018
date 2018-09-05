@@ -4,7 +4,7 @@
 * Wednesday, 9:00am to 11:30am
 * Conference Room
 * [Homework Wiki](https://github.com/shiffman/ICM-2018/wiki/Homework-Cassie)
-* (I will add a link to my office hours, but they will be on Thursdays.)
+* [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UU1sWVF3by0wR2lQfGRlZmF1bHR8YjhkY2IyODcxNDk3ODRhNzI1OTkyN2JiMDY3ODFmNWI): Thursdays, 1-2PM
 
 ## Dates
 

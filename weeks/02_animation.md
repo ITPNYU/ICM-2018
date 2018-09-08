@@ -3,7 +3,7 @@
 ## Program flow (what's a function?)
 * `setup()`, `draw()`, and other events: `mousePressed()`, etc.
 
-## Varation
+## Variation
 * Animation using built-in variables
   * [video 2.1: Variables in p5.js (mouseX, mouseY)](https://www.youtube.com/watch?v=RnS0YNuLfQQ&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=5)
 * User defined variables

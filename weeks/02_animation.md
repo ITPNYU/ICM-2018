@@ -1,12 +1,12 @@
 # Animation
 
 ## Program flow (what's a function?)
-* Setup, draw, and other events
+* `setup()`, `draw()`, and other events: `mousePressed()`, etc.
 
 ## Varation
-* Your first animation using built-in variables
+* Animation using built-in variables
   * [video 2.1: Variables in p5.js (mouseX, mouseY)](https://www.youtube.com/watch?v=RnS0YNuLfQQ&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=5)
-* Make your own variables (numbers and strings)
+* User defined variables
   * [video 2.2: Variables in p5.js (Make your own)](https://www.youtube.com/watch?v=Bn_B3T_Vbxs&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=6)
   * [video 2.3: JavaScript Objects (variables inside variables)](https://www.youtube.com/watch?v=-e5h4IGKZRY&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=7)
 * The [random()](http://p5js.org/reference/#/p5/random) function

@@ -5,7 +5,7 @@
 * Room 15
 
 * [Homework Wiki](https://github.com/shiffman/ICM-2018/wiki/Homework-Luisa)
-* [Office Hours]()
+* [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UU1WMTVTeUQzVjhUfGRlZmF1bHR8NmJlYmZkZWU4NjRlMGEzMzg3NDA1NTNhODU2OTBmNTc)
 * Email: luisa.ph@nyu.edu
 
 ## Dates

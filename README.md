@@ -36,7 +36,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 
 ## Extra Help
 - [Research Resident Office Hours](http://itp.nyu.edu/residents/contact-the-residents/)
-- ICM Help Sessions: Fridays 6.30 pm - 7.30 pm (for now, email mithru@nyu.edu to sign up)
+- ICM Help Sessions: Fridays 6.30 pm - 7.30 pm & Mondays 1pm-2pm (Rm 50)
 - TBA
 
 ## Inspiration

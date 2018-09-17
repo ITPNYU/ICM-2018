@@ -15,6 +15,10 @@
 * [4.1: `while` and `for` - video tutorial](https://www.youtube.com/watch?v=cnRD9o6odjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=14)
 * [4.2: nested loops - video tutorial](https://www.youtube.com/watch?v=1c1_TMdf8b8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=15)
 
+## Getting Started with p5.js book
+*  Chapters 4-5 of [Getting Started with p5.js book](http://amzn.to/2ckixCW) - [Ebook (free with NYU Library login)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728)
+
+
 ## GUI Interfaces
 One way to practice working with conditionals is to try to code a common interface elements in the canvas: e.g. rollover, button, slider, etc. In [week 6](https://github.com/ITPNYU/ICM-2018/blob/master/weeks/06_dom.md) we'll compare this technique to using elements the browser provides for free.
 - [circle rollover](https://editor.p5js.org/projects/H1kCSqah)

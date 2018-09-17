@@ -6,7 +6,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 * 2 -- [Animation: Variables](weeks/02_animation.md)
 * 3 -- [Interaction: conditionals and loops](weeks/03_interaction.md)
 * 4 -- [Functions and Objects](weeks/04_functions.md)
-* 5 -- [Objects and Arrays](weeks/05_objects)
+* 5 -- [Objects and Arrays](weeks/05_objects.md)
 * 6 -- [DOM: HTML, CSS](weeks/06_dom.md) and [Serial Communication](weeks/06_serial.md)
 * 7 -- [Working with Data](weeks/07_data.md)
 * 8 -- [Video and Sound](weeks/08_media.md)

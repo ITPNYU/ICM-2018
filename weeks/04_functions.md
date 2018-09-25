@@ -1,5 +1,7 @@
 # Functions (and here comes Objects)
 
+*The videos in this section were created ~2 years ago. They use different editors for p5.js. All of the concepts should still apply, however, there are some minor changes. Most notably in JavaScript `let` is now the preferred way to declare a variable over `var`. If you would like to learn more about this you can [watch this video about let vs var](https://youtu.be/q8SHaDQdul0).*
+
 ## Modularity
 * [5.1: Function Basics - video tutorial](https://www.youtube.com/watch?v=wRHAitGzBrg&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=16)
     * [Bouncing ball with functions code example](https://editor.p5js.org/icm/sketches/H1Oq4qta)

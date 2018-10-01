@@ -1,4 +1,4 @@
-### 7 -- DOM: HTML, CSS
+### 6 -- DOM: HTML, CSS
 - Review events -- mousePressed, keyPressed
 * [All video tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX)
 - [Tutorial: Beyond the Canvas, using p5.dom](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)

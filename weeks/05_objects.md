@@ -15,11 +15,11 @@ Some of the videos in this section were created last year and some two years ago
 * [7.2 Arrays and loops - video tutorial](https://www.youtube.com/watch?v=RXWO3mFuW-I)
 * [7.3 Arrays of objects - video tutorial](https://www.youtube.com/watch?v=fBqaA7zRO58)
 * [Extra video tutorial: for...of looop](https://youtu.be/Y8sMnRQYr3c?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+* [A Snake Following the Mouse - code](http://editor.p5js.org/projects/Sy1ECGcA)
 
 ## Arrays of Objects
 * [7.4 Mouse interaction with objects - video tutorial](https://www.youtube.com/watch?v=TaN5At5RWH8)
 * [7.5 Removing objects from arrays - video tutorial](https://www.youtube.com/watch?v=tA_ZgruFF9k)
-* [A Snake Following the Mouse - code](http://editor.p5js.org/projects/Sy1ECGcA)
 * [Interactive Stripes - code](http://editor.p5js.org/icm/sketches/B1ja76khW)
 * [An Array of Buttons - code](http://editor.p5js.org/icm/sketches/BkaTNak3Z)
 

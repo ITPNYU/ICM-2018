@@ -14,7 +14,7 @@ Some of the videos in this section were created last year and some two years ago
 * [7.1 What is an array? - video tutorial](https://www.youtube.com/watch?v=VIQoUghHSxU)
 * [7.2 Arrays and loops - video tutorial](https://www.youtube.com/watch?v=RXWO3mFuW-I)
 * [7.3 Arrays of objects - video tutorial](https://www.youtube.com/watch?v=fBqaA7zRO58)
-* [Extra video tutorial: for...of looop](https://youtu.be/Y8sMnRQYr3c?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+* [Extra video tutorial: for...of loop](https://youtu.be/Y8sMnRQYr3c?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 * [A Snake Following the Mouse - code](https://editor.p5js.org/icm/sketches/BkBsybb5X)
 
 ## Arrays of Objects

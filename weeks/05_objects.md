@@ -33,5 +33,7 @@ Some of the videos in this section were created last year and some two years ago
 * [MousePressed Adding New Images - code](http://editor.p5js.org/icm/sketches/SJzKEak3W)
 
 # Particle Systems
-* [Particle System Coding Challenge](https://youtu.be/UcdigVaIYAk)
-* [Snowflake Coding Challenge](https://youtu.be/cl-mHFCGzYk)
+* [Particle System - video](https://youtu.be/UcdigVaIYAk)
+* [Particle System - code](https://editor.p5js.org/icm/sketches/B1d5xfS5X)
+* [Snowfall - video](https://youtu.be/cl-mHFCGzYk)
+* [Snowfall - code](https://editor.p5js.org/icm/sketches/HkICgMSqQ)

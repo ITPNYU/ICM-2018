@@ -31,3 +31,7 @@ Some of the videos in this section were created last year and some two years ago
 ## Images and Objects
 * [7.8: Objects and Images - video tutorial](https://youtu.be/i2C1hrJMwz0?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 * [MousePressed Adding New Images - code](http://editor.p5js.org/icm/sketches/SJzKEak3W)
+
+# Particle Systems
+* [Particle System Coding Challenge](https://youtu.be/UcdigVaIYAk)
+* [Snowflake Coding Challenge](https://youtu.be/cl-mHFCGzYk)

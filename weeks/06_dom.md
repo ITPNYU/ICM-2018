@@ -11,7 +11,7 @@ https://github.com/processing/p5.js/issues/3260
 * [Tutorial: Intro to HTML/CSS basics](https://github.com/ITPNYU/ICM-2018/wiki/Intro-to-HTML-and-CSS)
 * [Mozilla: Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 * [Mozilla: CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
-* Getting Started with p5.js Chapter 13
+* Getting Started with p5.js Chapter 13 (DOM is covered towards the end)
 
 ## Reference Pages
 * [p5 DOM library reference](https://p5js.org/reference/#/libraries/p5.dom)

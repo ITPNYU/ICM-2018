@@ -16,6 +16,11 @@ https://github.com/processing/p5.js/issues/3260
 * [p5 DOM library reference](https://p5js.org/reference/#/libraries/p5.dom)
 * [CSS Reference](http://www.blooberry.com/indexdot/css/propindex/all.htm)
 
+## Code Examples
+* [Code from videos below](https://github.com/CodingTrain/website/tree/master/Tutorials/P5JS/p5.js/08)
+* [Getting Started with p5.js Chapters 13_05 + 13_06](https://github.com/lmccart/gswp5.js-code/tree/master/13_Extend)
+
+
 ## Video Tutorials
 
 ### HTML

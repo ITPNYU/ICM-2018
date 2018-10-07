@@ -2,7 +2,7 @@
 
 The videos in this section were created two years ago. They use a different editor for p5.js. All of the concepts should still apply, however, there are some minor changes. If you notice something way off, please let Dan know!
 
-Also, at the moment there is a pretty significant bug in p5 versio 0.7.2, the one the p5.js web editor loads by default. You can go into the `index.html` and change hte version to 0.6.1 for the examples below to run until this gets sorted out!
+Also, at the moment there is a pretty significant bug in p5 versio `0.7.2`, the one the p5.js web editor loads by default. You can go into the `index.html` and change hte version to `0.6.1` for the examples below to run until this gets sorted out!
 
 https://github.com/processing/p5.js/issues/3260
 

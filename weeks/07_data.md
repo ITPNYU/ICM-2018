@@ -1,5 +1,8 @@
 # Data and APIs
 
+*Some of the videos in this section were created last year and some two years ago. They use different editors for p5.js. All of the concepts should still apply? I wonder also if any of the APIs have changed significantly and the examples no longer work or apply! If you notice something way off, please let me know!*
+
+
 ## Written Tutorials
 - [Tutorial: loading external data with p5.js](https://github.com/processing/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
 

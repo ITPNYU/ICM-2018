@@ -6,6 +6,7 @@
 ## Background Reading
 * [Zuck Speaks: Facebook Restricts API Data Access And Shares Updates On User Privacy Efforts](https://adexchanger.com/platforms/zuck-speaks-facebook-restricts-api-data-access-and-shares-updates-on-user-privacy-efforts/)
 * [What Information is "Personally Identifiable"?](https://www.eff.org/deeplinks/2009/09/what-information-personally-identifiable) by Seth Schoen
+* [How Uber Uses Psychological Tricks to Push Its Drivers’ Buttons](https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html) by Noem Scheiber (NY Times)
 * [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api) by Jer Thorp
 * [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/) by Kate Crawford
 * [Sentencing Guideline](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/) by Sam Corbett-Davies, Emma Pierson, Avi Feller and, Sharad Goel (Washington Post)

@@ -3,6 +3,9 @@
 ## Written Tutorials
 - [Tutorial: loading external data with p5.js](https://github.com/processing/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
 
+## Data Sources
+* [Data Sources Wiki](https://github.com/ITPNYU/ICM-2018/wiki/Data-Sources) - please help organized and add to this list!
+
 ## Background Reading
 * [Zuck Speaks: Facebook Restricts API Data Access And Shares Updates On User Privacy Efforts](https://adexchanger.com/platforms/zuck-speaks-facebook-restricts-api-data-access-and-shares-updates-on-user-privacy-efforts/)
 * [What Information is "Personally Identifiable"?](https://www.eff.org/deeplinks/2009/09/what-information-personally-identifiable) by Seth Schoen

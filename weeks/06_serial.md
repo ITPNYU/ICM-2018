@@ -2,7 +2,7 @@
 
 1.  Download the [P5 Serial Control](https://github.com/vanevery/p5.serialcontrol/releases) application.  This application serves as a bridge between your arduino and your p5 sketch.  For it to run you'll on a mac you either need to have "allow apps downloaded from anywhere" enabled or cntrl-click to open. [More info on apple's help pages](https://support.apple.com/kb/PH21769?locale=en_US).
 
-2. Open the following example, connect your Arduino, and get it running.  (You can "duplicate" it in the p5 editor to save it into your account.)   Make sure the editor is using **http** and not **https**.
+2. Open the following example, connect your Arduino, and get it running.  (You can "duplicate" it in the p5 editor to save it into your account.)   (NOTE:  Right now using this with the p5.js Editor requires Chrome)
    * [p5.js code for reading analog value](http://alpha.editor.p5js.org/shawn/sketches/Sk3xpl26).  Works with AnalogReadSerial Arduino sketch, found in the Arduino IDE, File menu, Examples-> Basics —> AnalogReadSerial. Turn a potentiometer from 0 - 1023, the ball moves from 0-255 on the screen.
 
 The examples use the p5.serialport library.  You can read [documentation](http://vanevery.github.io/p5.serialport/docs/classes/p5.serialport.html) and find [more examples](https://github.com/vanevery/p5.serialport/tree/master/examples).

@@ -53,7 +53,7 @@
 
 ### Code
 * [p5.js editor: Load and Play Sound](https://editor.p5js.org/p5/sketches/H1aXNl1X_m)
-* [p5.js editor: Manipulate Sound][(https://editor.p5js.org/p5/sketches/rJQxX4l1QOX)
+* [p5.js editor: Manipulate Sound](https://editor.p5js.org/p5/sketches/rJQxX4l1QOX)
 * [p5.js editor: Amplitude Analysis](https://editor.p5js.org/p5/sketches/S1EgmNgJXuQ)
 * [p5.js editor: Live Input](https://editor.p5js.org/p5/sketches/By-NEeymdm)
 * [p5.js editor: Mic Threshold](https://editor.p5js.org/p5/sketches/H17EElkXOX)

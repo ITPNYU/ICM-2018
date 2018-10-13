@@ -1,6 +1,8 @@
 
 # Media
 
+*Some of the videos in this section were created last year and some two years ago. They use different editors for p5.js. All of the concepts should still apply? If you notice something off, please let me know!*
+
 ## Video
 
 ### Reference

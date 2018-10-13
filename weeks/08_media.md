@@ -4,7 +4,13 @@
 ## Video
 
 ### Reference
-* [Video/capture: p5.MediaElement reference](http://p5js.org/reference/#/p5.MediaElement)
+* [p5 reference: pixels](https://p5js.org/reference/#/p5/pixels)
+* [p5 reference: get()](https://p5js.org/reference/#/p5/get)
+* [p5 reference: set()](https://p5js.org/reference/#/p5/set)
+* [p5 reference: copy()](https://p5js.org/reference/#/p5/copy)
+* [p5 reference: createVideo()](https://p5js.org/reference/#/p5/createVideo)
+* [p5 reference: createCapture()](https://p5js.org/reference/#/p5/createCapture)
+* [p5 reference: p5.MediaElement](http://p5js.org/reference/#/p5.MediaElement)
 
 ### Video Tutorials
 * [11.1: Live Video and createCapture() - video tutorial](https://youtu.be/bkGf4fEHKak?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig)

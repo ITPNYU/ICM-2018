@@ -38,5 +38,28 @@
 - [p5.sound reference](http://p5js.org/reference/#/libraries/p5.sound)
 
 ### Video Tutorials
-* [Video tutorials on sound](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+* [17.1: Loading and Playing sound - video tutorial](https://youtu.be/Pn1g1wjxl_0?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+* [17.2: Play and Pause Button - video tutorial](https://youtu.be/YcezEwOXun4?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+* [17.3: Timing, Jumps and Cues - video tutorial](https://youtu.be/SfA5CghXw18?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+* [17.4: Amplitude Analysis - video tutorial](https://youtu.be/NCCHQwNAN6Y?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+* [17.5: Adding Sound Effects - video tutorial](https://youtu.be/40Me1-yAtTc?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+* [17.6: Sound Synthesis - video tutorial](https://youtu.be/Bk8rLzzSink?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+* [17.7: ADSR Envelope - video tutorial](https://youtu.be/wUSva_BnedA?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+* [17.8: Microphone Input - video tutorial](https://youtu.be/wUSva_BnedA?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+* [17.9: Sound Visualization: Graphing Amplitude - video tutorial](https://youtu.be/jEwAMgcCgOA?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+* [17.10: Sound Visualization: Radial Graph - video tutorial](https://youtu.be/h_aTgOl9J5I?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+* [17.11: Sound Visualization: Frequency Analysis with FFT - video tutorial](https://www.youtube.com/watch?v=2O3nm0Nvbi4&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=11)
+
+
+### Code
+* [p5.js editor: Load and Play Sound](https://editor.p5js.org/p5/sketches/H1aXNl1X_m)
+* [p5.js editor: Manipulate Sound][(https://editor.p5js.org/p5/sketches/rJQxX4l1QOX)
+* [p5.js editor: Amplitude Analysis](https://editor.p5js.org/p5/sketches/S1EgmNgJXuQ)
+* [p5.js editor: Live Input](https://editor.p5js.org/p5/sketches/By-NEeymdm)
+* [p5.js editor: Mic Threshold](https://editor.p5js.org/p5/sketches/H17EElkXOX)
+* [p5.js editor: Oscillator](https://editor.p5js.org/p5/sketches/S1xN4x1muQ)
+* [p5.js editor: Envelope](https://editor.p5js.org/p5/sketches/Hy4NekQ_X)
+* [p5.js editor: FFT Spectrum](https://editor.p5js.org/p5/sketches/HJzEEly7dm)
+* [Code for above video tutorials](https://github.com/CodingTrain/website/tree/master/Tutorials/P5JS/p5.js_sound)
+* [Chapter 20 (sound) from Learning Processing ported to p5.js](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp20_sound)
 

@@ -11,7 +11,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media
 * 7 -- [Working with Data](weeks/07_data.md)
 * 8 -- [Video and Sound](weeks/08_media.md)
 * 9 -- [Machine Learning](weeks/09_ml.md)
-* 10 -- ICM Madness Workshop -- All sections meet Friday, Nov 2, 11am-2pm! Details TBA.
+* 10 -- [ICM Madness Workshop](https://github.com/ITPNYU/ICMadness-2018) -- All sections meet Friday, Nov 2, 11am-2pm!
 * 11 -- Other Topics + Final Project Proposals
 * 12 -- Beyond p5.js + Final Project Proposals
 * 13 -- One on one speed user testing / feedback
